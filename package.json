@@ -1,0 +1,18 @@
+{
+  "name": "h_k_mem",
+  "version": "1.0.0",
+  "description": "Hierarchical Knowledge Memory - Break Hermes Agent 2,200 character limit",
+  "main": "SKILL.md",
+  "author": "joez112 <27816@qq.com>",
+  "license": "MIT",
+  "keywords": [
+    "hermes-agent",
+    "memory-management",
+    "knowledge-base"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joez112/h_k_mem.git"
+  },
+  "created": "2026-04-21"
+}
